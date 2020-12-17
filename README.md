@@ -4,7 +4,7 @@
   Hellow
  </head>
  <body>
-  <marque>Nikhi</marque>
+nikhi
  </body>
  </html>
  
